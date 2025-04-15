@@ -1,0 +1,14 @@
+Neili Hu 1752639
+
+no collaborator
+
+1.I guess a woarning will show.
+2.first, putting scanf() into each functions means we have to add printf() and scanf() 
+into each functions, obviously. It will use lots of storing space, althought, it works
+no different than the another way in user's experience. As a coder coding my code into 
+a high efficiency is important.
+second, I guess it will cause some problem in the future.
+
+this lab tooks me a loooooooooong time to figure out how scanf() works. However, it still 
+unwork. I'm thinking I maybe should replace a new kit. This lab is finished without see
+hwo scanf() works! Hope the future labs do not need anything input.879789

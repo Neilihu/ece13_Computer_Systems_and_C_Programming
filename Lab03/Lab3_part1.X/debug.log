@@ -1,0 +1,15 @@
+[0208/083850.434:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0208/083850.612:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+[0208/083850.612:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\ﾺ￴ﾺ￴ﾹ￾ﾹ￾\AppData\Local\Temp\CEF\Cache to C:\Users\ﾺ￴ﾺ￴ﾹ￾ﾹ￾\AppData\Local\Temp\CEF\old_Cache_000
+[0208/083850.612:ERROR:disk_cache.cc(168)] Unable to create cache
+[0208/083851.707:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0208/083902.581:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0208/083902.582:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0208/083904.599:WARNING:value_store_frontend.cc(42)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0208/113903.375:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0208/113904.917:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0208/113905.044:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0208/113905.983:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0208/113905.998:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0208/113906.014:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0208/155327.347:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
